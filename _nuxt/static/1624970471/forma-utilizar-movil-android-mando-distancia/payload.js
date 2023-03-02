@@ -1,0 +1,1 @@
+__NUXT_JSONP__("forma-utilizar-movil-android-mando-distancia", {data:[{}],fetch:{},mutations:void 0});

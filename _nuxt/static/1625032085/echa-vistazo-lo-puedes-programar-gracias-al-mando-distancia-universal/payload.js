@@ -1,0 +1,1 @@
+__NUXT_JSONP__("echa-vistazo-lo-puedes-programar-gracias-al-mando-distancia-universal", {data:[{}],fetch:{},mutations:void 0});

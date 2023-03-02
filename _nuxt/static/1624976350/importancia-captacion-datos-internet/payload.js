@@ -1,0 +1,1 @@
+__NUXT_JSONP__("importancia-captacion-datos-internet", {data:[{}],fetch:{},mutations:void 0});

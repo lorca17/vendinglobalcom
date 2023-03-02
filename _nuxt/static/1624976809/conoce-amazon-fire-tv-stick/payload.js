@@ -1,0 +1,1 @@
+__NUXT_JSONP__("conoce-amazon-fire-tv-stick", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("controla-electrodomesticos-desde-movil-con-zaza-remote", {data:[{}],fetch:{},mutations:void 0});

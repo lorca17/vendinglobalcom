@@ -1,0 +1,1 @@
+__NUXT_JSONP__("automatizar-tu-hogar-es-facil-con-xiaomi-universal-ir-remote-controller", {data:[{}],fetch:{},mutations:void 0});

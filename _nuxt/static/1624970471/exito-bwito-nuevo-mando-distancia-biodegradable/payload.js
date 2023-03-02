@@ -1,0 +1,1 @@
+__NUXT_JSONP__("exito-bwito-nuevo-mando-distancia-biodegradable", {data:[{}],fetch:{},mutations:void 0});

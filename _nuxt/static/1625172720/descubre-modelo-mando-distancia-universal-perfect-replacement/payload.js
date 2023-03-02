@@ -1,0 +1,1 @@
+__NUXT_JSONP__("descubre-modelo-mando-distancia-universal-perfect-replacement", {data:[{}],fetch:{},mutations:void 0});

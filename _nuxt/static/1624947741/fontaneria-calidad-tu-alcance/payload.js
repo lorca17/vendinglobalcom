@@ -1,0 +1,1 @@
+__NUXT_JSONP__("fontaneria-calidad-tu-alcance", {data:[{}],fetch:{},mutations:void 0});

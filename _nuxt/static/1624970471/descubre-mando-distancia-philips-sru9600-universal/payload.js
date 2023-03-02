@@ -1,0 +1,1 @@
+__NUXT_JSONP__("descubre-mando-distancia-philips-sru9600-universal", {data:[{}],fetch:{},mutations:void 0});

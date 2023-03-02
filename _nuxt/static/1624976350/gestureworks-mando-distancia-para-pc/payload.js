@@ -1,0 +1,1 @@
+__NUXT_JSONP__("gestureworks-mando-distancia-para-pc", {data:[{}],fetch:{},mutations:void 0});

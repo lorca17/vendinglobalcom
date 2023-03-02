@@ -1,0 +1,1 @@
+__NUXT_JSONP__("homyhub-convertira-al-movil-en-mando-garaje-inteligente", {data:[{}],fetch:{},mutations:void 0});

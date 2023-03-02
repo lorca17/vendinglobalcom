@@ -1,0 +1,1 @@
+__NUXT_JSONP__("controla-bose-wave-radio-gracias-mando-distancia-universal", {data:[{}],fetch:{},mutations:void 0});

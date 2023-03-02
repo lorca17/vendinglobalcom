@@ -1,0 +1,1 @@
+__NUXT_JSONP__("aprende-reparar-mando-distancia-tu-mismo", {data:[{}],fetch:{},mutations:void 0});

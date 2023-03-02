@@ -1,0 +1,1 @@
+__NUXT_JSONP__("griffin-beacon-mando-distancia-universal-para-android-ios", {data:[{}],fetch:{},mutations:void 0});

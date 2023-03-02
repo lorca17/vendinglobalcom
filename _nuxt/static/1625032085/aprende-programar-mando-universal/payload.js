@@ -1,0 +1,1 @@
+__NUXT_JSONP__("aprende-programar-mando-universal", {data:[{}],fetch:{},mutations:void 0});

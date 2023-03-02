@@ -1,0 +1,1 @@
+__NUXT_JSONP__("consigue-mando-universal-aire-acondicionado", {data:[{}],fetch:{},mutations:void 0});

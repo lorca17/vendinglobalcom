@@ -1,0 +1,1 @@
+__NUXT_JSONP__("descubre-mando-distancia-logitech-harmony-300i", {data:[{}],fetch:{},mutations:void 0});

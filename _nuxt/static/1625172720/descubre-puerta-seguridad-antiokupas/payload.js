@@ -1,0 +1,1 @@
+__NUXT_JSONP__("descubre-puerta-seguridad-antiokupas", {data:[{}],fetch:{},mutations:void 0});

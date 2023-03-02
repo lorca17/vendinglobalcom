@@ -1,0 +1,1 @@
+__NUXT_JSONP__("descubre-klikr-nuevo-mando-remoto-universal-tamano-moneda", {data:[{}],fetch:{},mutations:void 0});

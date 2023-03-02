@@ -1,0 +1,1 @@
+__NUXT_JSONP__("descubre-tecnologia-aukey-pa-r3", {data:[{}],fetch:{},mutations:void 0});

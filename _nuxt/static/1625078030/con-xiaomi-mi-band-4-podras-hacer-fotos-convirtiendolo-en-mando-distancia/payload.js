@@ -1,0 +1,1 @@
+__NUXT_JSONP__("con-xiaomi-mi-band-4-podras-hacer-fotos-convirtiendolo-en-mando-distancia", {data:[{}],fetch:{},mutations:void 0});

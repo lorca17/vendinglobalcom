@@ -1,0 +1,1 @@
+__NUXT_JSONP__("calistouk-mando-distancia-con-duplicador-codigos-para-puertas-garaje", {data:[{}],fetch:{},mutations:void 0});

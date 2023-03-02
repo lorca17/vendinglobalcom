@@ -1,0 +1,1 @@
+__NUXT_JSONP__("descubre-mando-distancia-amazonbasics", {data:[{}],fetch:{},mutations:void 0});

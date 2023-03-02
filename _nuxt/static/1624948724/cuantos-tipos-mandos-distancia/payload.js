@@ -1,0 +1,1 @@
+__NUXT_JSONP__("cuantos-tipos-mandos-distancia", {data:[{}],fetch:{},mutations:void 0});

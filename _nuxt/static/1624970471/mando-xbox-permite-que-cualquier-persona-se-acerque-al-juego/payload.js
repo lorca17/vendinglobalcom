@@ -1,0 +1,1 @@
+__NUXT_JSONP__("mando-xbox-permite-que-cualquier-persona-se-acerque-al-juego", {data:[{}],fetch:{},mutations:void 0});

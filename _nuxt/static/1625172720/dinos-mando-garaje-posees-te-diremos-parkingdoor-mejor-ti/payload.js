@@ -1,0 +1,1 @@
+__NUXT_JSONP__("dinos-mando-garaje-posees-te-diremos-parkingdoor-mejor-ti", {data:[{}],fetch:{},mutations:void 0});

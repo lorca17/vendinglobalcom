@@ -1,0 +1,1 @@
+__NUXT_JSONP__("electricistas-antenistas-dos-profesiones-mas-demandadas", {data:[{}],fetch:{},mutations:void 0});

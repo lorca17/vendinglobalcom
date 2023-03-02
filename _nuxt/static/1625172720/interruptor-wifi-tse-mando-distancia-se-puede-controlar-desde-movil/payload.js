@@ -1,0 +1,1 @@
+__NUXT_JSONP__("interruptor-wifi-tse-mando-distancia-se-puede-controlar-desde-movil", {data:[{}],fetch:{},mutations:void 0});

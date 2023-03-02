@@ -1,0 +1,1 @@
+__NUXT_JSONP__("forma-controlar-tv-utilizando-mando-universal-movistar-fusion", {data:[{}],fetch:{},mutations:void 0});

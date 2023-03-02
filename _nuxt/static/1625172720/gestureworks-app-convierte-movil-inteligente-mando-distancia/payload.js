@@ -1,0 +1,1 @@
+__NUXT_JSONP__("gestureworks-app-convierte-movil-inteligente-mando-distancia", {data:[{}],fetch:{},mutations:void 0});

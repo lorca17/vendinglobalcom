@@ -1,0 +1,1 @@
+__NUXT_JSONP__("asi-puedes-convertir-tu-xiaomi-mi-band-4-en-mando-distancia", {data:[{}],fetch:{},mutations:void 0});

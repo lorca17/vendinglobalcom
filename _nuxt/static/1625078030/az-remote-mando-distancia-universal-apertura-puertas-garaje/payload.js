@@ -1,0 +1,1 @@
+__NUXT_JSONP__("az-remote-mando-distancia-universal-apertura-puertas-garaje", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("gases-efecto-invernadero-esto-es-lo-que-tienes-que-saber", {data:[{}],fetch:{},mutations:void 0});

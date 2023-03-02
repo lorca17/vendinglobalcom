@@ -1,0 +1,1 @@
+__NUXT_JSONP__("apps-smartphone-mando-distancia", {data:[{}],fetch:{},mutations:void 0});

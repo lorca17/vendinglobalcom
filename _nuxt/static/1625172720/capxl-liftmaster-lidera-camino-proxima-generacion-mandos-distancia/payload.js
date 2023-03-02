@@ -1,0 +1,1 @@
+__NUXT_JSONP__("capxl-liftmaster-lidera-camino-proxima-generacion-mandos-distancia", {data:[{}],fetch:{},mutations:void 0});

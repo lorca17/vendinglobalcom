@@ -1,0 +1,1 @@
+__NUXT_JSONP__("como-automatizar-tu-ventilador-techo-jardin-con-tan-solo-mando", {data:[{}],fetch:{},mutations:void 0});

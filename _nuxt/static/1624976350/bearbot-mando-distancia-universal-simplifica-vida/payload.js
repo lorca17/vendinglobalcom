@@ -1,0 +1,1 @@
+__NUXT_JSONP__("bearbot-mando-distancia-universal-simplifica-vida", {data:[{}],fetch:{},mutations:void 0});

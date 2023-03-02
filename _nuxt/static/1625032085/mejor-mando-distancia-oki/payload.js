@@ -1,0 +1,1 @@
+__NUXT_JSONP__("mejor-mando-distancia-oki", {data:[{}],fetch:{},mutations:void 0});

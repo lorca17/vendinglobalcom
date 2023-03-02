@@ -1,0 +1,1 @@
+__NUXT_JSONP__("descubre-proximo-mando-xbox-para-moviles-que-lanzara-microsoft-al-mercado", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("este-lector-huellas-es-mando-distancia-para-movil", {data:[{}],fetch:{},mutations:void 0});

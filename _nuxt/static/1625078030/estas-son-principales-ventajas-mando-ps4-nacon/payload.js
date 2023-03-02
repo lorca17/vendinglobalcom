@@ -1,0 +1,1 @@
+__NUXT_JSONP__("estas-son-principales-ventajas-mando-ps4-nacon", {data:[{}],fetch:{},mutations:void 0});

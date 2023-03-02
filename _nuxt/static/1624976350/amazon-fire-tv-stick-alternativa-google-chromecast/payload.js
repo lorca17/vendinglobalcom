@@ -1,0 +1,1 @@
+__NUXT_JSONP__("amazon-fire-tv-stick-alternativa-google-chromecast", {data:[{}],fetch:{},mutations:void 0});

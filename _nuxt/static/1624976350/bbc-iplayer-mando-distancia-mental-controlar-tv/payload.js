@@ -1,0 +1,1 @@
+__NUXT_JSONP__("bbc-iplayer-mando-distancia-mental-controlar-tv", {data:[{}],fetch:{},mutations:void 0});

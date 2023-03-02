@@ -1,0 +1,1 @@
+__NUXT_JSONP__("funcion-codigo-instalador-mando-garajes", {data:[{}],fetch:{},mutations:void 0});

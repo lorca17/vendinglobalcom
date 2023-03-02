@@ -1,0 +1,1 @@
+__NUXT_JSONP__("adaptive-controller-xbox-mando-funcional-diferente", {data:[{}],fetch:{},mutations:void 0});

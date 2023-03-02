@@ -1,0 +1,1 @@
+__NUXT_JSONP__("amigo-televisor-pero-con-mando-distancia", {data:[{}],fetch:{},mutations:void 0});

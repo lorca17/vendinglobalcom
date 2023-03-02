@@ -1,0 +1,1 @@
+__NUXT_JSONP__("caracteristicas-mandos-distancia-marca-ansonic", {data:[{}],fetch:{},mutations:void 0});

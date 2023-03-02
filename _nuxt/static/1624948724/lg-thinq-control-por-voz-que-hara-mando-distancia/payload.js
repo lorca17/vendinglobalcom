@@ -1,0 +1,1 @@
+__NUXT_JSONP__("lg-thinq-control-por-voz-que-hara-mando-distancia", {data:[{}],fetch:{},mutations:void 0});

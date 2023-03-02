@@ -1,0 +1,1 @@
+__NUXT_JSONP__("estos-mitos-leyendas-existen-mandos-distancia-garaje", {data:[{}],fetch:{},mutations:void 0});

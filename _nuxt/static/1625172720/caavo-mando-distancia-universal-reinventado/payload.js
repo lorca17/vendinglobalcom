@@ -1,0 +1,1 @@
+__NUXT_JSONP__("caavo-mando-distancia-universal-reinventado", {data:[{}],fetch:{},mutations:void 0});

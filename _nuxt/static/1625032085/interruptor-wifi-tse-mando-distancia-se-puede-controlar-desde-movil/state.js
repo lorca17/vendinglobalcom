@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1625032085",layout:"default",error:a,serverRendered:true,routePath:"\u002Finterruptor-wifi-tse-mando-distancia-se-puede-controlar-desde-movil",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null));

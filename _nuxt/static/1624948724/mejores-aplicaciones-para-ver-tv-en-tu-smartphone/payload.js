@@ -1,0 +1,1 @@
+__NUXT_JSONP__("mejores-aplicaciones-para-ver-tv-en-tu-smartphone", {data:[{}],fetch:{},mutations:void 0});

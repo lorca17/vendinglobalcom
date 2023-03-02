@@ -1,0 +1,1 @@
+__NUXT_JSONP__("huis-mando-distancia-controlar-mayor-cantidad-gadgets", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("descubre-nuevo-mando-distancia-radiofrecuencia-sonoff", {data:[{}],fetch:{},mutations:void 0});

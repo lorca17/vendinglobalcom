@@ -1,0 +1,1 @@
+__NUXT_JSONP__("gracias-parkingdoor-ya-no-sera-preciso-tener-mando-para-abrir-garaje", {data:[{}],fetch:{},mutations:void 0});

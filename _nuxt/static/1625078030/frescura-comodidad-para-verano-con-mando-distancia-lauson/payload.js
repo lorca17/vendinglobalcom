@@ -1,0 +1,1 @@
+__NUXT_JSONP__("frescura-comodidad-para-verano-con-mando-distancia-lauson", {data:[{}],fetch:{},mutations:void 0});

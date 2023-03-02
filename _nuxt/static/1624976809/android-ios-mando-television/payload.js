@@ -1,0 +1,1 @@
+__NUXT_JSONP__("android-ios-mando-television", {data:[{}],fetch:{},mutations:void 0});
